@@ -31,7 +31,7 @@ The model achieved an accuracy of **77%** on the test set. While this is a solid
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction-svm.git
+   git clone https://github.com/Ashwadhama004/diabetes-prediction-svm.git
    cd diabetes-prediction-svm
    ```
 
@@ -57,10 +57,3 @@ The model achieved an accuracy of **77%** on the test set. While this is a solid
 
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to adjust any sections according to your project's specifics!
